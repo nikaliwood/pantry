@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Nikali's Pantry",
+  title: "Pantry Track",
   description: "Created using next.js",
 };
 
